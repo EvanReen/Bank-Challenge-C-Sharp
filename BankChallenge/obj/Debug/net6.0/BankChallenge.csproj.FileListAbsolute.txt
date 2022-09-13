@@ -1,0 +1,15 @@
+C:\Users\evan.reen\source\repos\BankChallenge\obj\Debug\net6.0\BankChallenge.csproj.AssemblyReference.cache
+C:\Users\evan.reen\source\repos\BankChallenge\obj\Debug\net6.0\BankChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evan.reen\source\repos\BankChallenge\obj\Debug\net6.0\BankChallenge.AssemblyInfoInputs.cache
+C:\Users\evan.reen\source\repos\BankChallenge\obj\Debug\net6.0\BankChallenge.AssemblyInfo.cs
+C:\Users\evan.reen\source\repos\BankChallenge\obj\Debug\net6.0\BankChallenge.csproj.CoreCompileInputs.cache
+C:\Users\evan.reen\source\repos\BankChallenge\bin\Debug\net6.0\BankChallenge.exe
+C:\Users\evan.reen\source\repos\BankChallenge\bin\Debug\net6.0\BankChallenge.deps.json
+C:\Users\evan.reen\source\repos\BankChallenge\bin\Debug\net6.0\BankChallenge.runtimeconfig.json
+C:\Users\evan.reen\source\repos\BankChallenge\bin\Debug\net6.0\BankChallenge.dll
+C:\Users\evan.reen\source\repos\BankChallenge\bin\Debug\net6.0\BankChallenge.pdb
+C:\Users\evan.reen\source\repos\BankChallenge\obj\Debug\net6.0\BankChallenge.dll
+C:\Users\evan.reen\source\repos\BankChallenge\obj\Debug\net6.0\refint\BankChallenge.dll
+C:\Users\evan.reen\source\repos\BankChallenge\obj\Debug\net6.0\BankChallenge.pdb
+C:\Users\evan.reen\source\repos\BankChallenge\obj\Debug\net6.0\BankChallenge.genruntimeconfig.cache
+C:\Users\evan.reen\source\repos\BankChallenge\obj\Debug\net6.0\ref\BankChallenge.dll
